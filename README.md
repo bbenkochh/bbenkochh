@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in writing code, playing guitar, writing music, and collection hockey cards,
-- 🌱 I’m currently learning HTML and CSS and will be moving into JavaScript shortly.
+- 👀 I’m interested in writing code, collecting basketball card, and playing WoW
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
 
 <!---
 bbenkochh/bbenkochh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
