@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in writing code, collecting basketball cards, and playing WoW
+- 👀 I’m interested in photography, coding my own website, Pokemon cards, and learning German!
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 
 <!---
