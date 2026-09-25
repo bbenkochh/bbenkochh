@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in photography, coding my own website, Pokemon cards, and learning German!
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m interested in photography, outer space, planet Earth and, formula 1!
+- 🌱 I’m currently learning Python
 
 <!---
 bbenkochh/bbenkochh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
